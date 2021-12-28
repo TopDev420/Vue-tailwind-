@@ -33,7 +33,7 @@
 
 ### Installation
 * Make sure you have **npm** and **composer** installed in your machine.
-* Clone the repo: ``git clone https://github.com/gentritabazi01/Vue-Lumen-Starter.git`` to your local path.
+* Clone to your local path.
 * Navigate to {PROJECT-PATH}/back where {PROJECT-PATH} is the path where you cloned project.
 * Run `copy .env.example .env` and after file `.env` is copied you need to set database credentials into `.env` file.
 * Run `composer install` to install dependencies.
@@ -41,11 +41,3 @@
 * Navigate to {PROJECT-PATH}/front and run `copy .env.example .env`.
 * Run: `npm install`.
 * Run: `npm run serve`.
-
-### Credits
-* Tailwind Admin Template (https://github.com/davidgrzyb/tailwind-admin-template)
-* Tailwind Login & Register Template (https://github.com/davidgrzyb/tailwind-auth-template)
-
-### Author
-* Name: **Gentrit Abazi**
-* Email: **gentritabazi01@gmail.com**
